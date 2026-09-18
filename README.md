@@ -1,6 +1,6 @@
 # Hi, I'm Tibin Thomas 👋
 
-### Cloud & Software Developer | AWS | JavaScript | DevOps
+### Cloud & Software Developer | AWS | DevOps
 
 I'm a developer interested in building practical software solutions, cloud-based applications, and automation workflows.
 
